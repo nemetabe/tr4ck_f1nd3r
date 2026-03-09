@@ -2,5 +2,5 @@
 
 ## MUSIC ANALYSER APP - TR4CK_F1ND3R
 
-!GitHub(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [https://github.com/users/nemetabe/projects/6]
